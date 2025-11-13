@@ -1,0 +1,21 @@
+payment_id,order_id,amount,payment_method
+1,11,54.01,Debit Card
+2,9,341.11,Debit Card
+3,18,83.51,Cash on Delivery
+4,19,246.88,Bank Transfer
+5,14,111.4,Credit Card
+6,14,190.06,Bank Transfer
+7,15,434.64,Credit Card
+8,4,49.09,PayPal
+9,4,139.36,Debit Card
+10,18,235.33,Bank Transfer
+11,6,153.7,Debit Card
+12,3,232.7,Cash on Delivery
+13,4,44.28,Cash on Delivery
+14,1,485.12,Debit Card
+15,6,215.08,Bank Transfer
+16,7,435.03,Credit Card
+17,6,201.91,Bank Transfer
+18,9,464.73,Bank Transfer
+19,10,223.04,Cash on Delivery
+20,16,94.3,PayPal
