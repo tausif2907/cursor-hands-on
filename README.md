@@ -98,9 +98,10 @@ python query_join.py
 
 ## 📊 Final Output
 
-<img width="216" height="419" alt="Screenshot 2025-11-14 021640" src="https://github.com/user-attachments/assets/15d0b465-626d-4b32-a22a-54f434841163" />
-<img width="1039" height="776" alt="Screenshot 2025-11-14 021744" src="https://github.com/user-attachments/assets/5370d671-6759-4ee3-acaf-cdf61eb1fb53" />
-<img width="1093" height="264" alt="Screenshot 2025-11-14 021816" src="https://github.com/user-attachments/assets/4b3cd485-a63e-402c-8800-6bf26896ecad" />
+<img width="216" height="419" alt="Screenshot 2025-11-14 021640" src="https://github.com/user-attachments/assets/6a64d33a-748f-4127-8e88-761835427ae0" />
+<img width="1039" height="776" alt="Screenshot 2025-11-14 021744" src="https://github.com/user-attachments/assets/9f0acf6e-113d-4735-9f69-08bcc242e986" />
+<img width="1093" height="264" alt="Screenshot 2025-11-14 021816" src="https://github.com/user-attachments/assets/7a0557e5-dbfb-4544-bb7c-8e8ec5da1f15" />
+
 
 ---
 
