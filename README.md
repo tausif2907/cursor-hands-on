@@ -160,8 +160,6 @@ Format the response as a plain sequence of commands and short notes on where to 
 - Fully AI-generated workflow  
 - Unique random dataset  
 - Correct SQL joins  
-- Clean repo  
-- Professional README  
 
 ---
 
