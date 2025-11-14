@@ -1,4 +1,4 @@
-🚀 Cursor E-Commerce Data Pipeline (Hands-On Project)
+Cursor E-Commerce Data Pipeline (Hands-On Project)
 
 This project was completed as part of a **Cursor A-SDLC hands-on hiring task**, where the objective was to use **Cursor IDE + AI prompts** to build a mini end-to-end data pipeline.
 
