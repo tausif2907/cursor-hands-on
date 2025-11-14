@@ -154,7 +154,7 @@ Format the response as a plain sequence of commands and short notes on where to 
 
 ---
 
-## 📝 Why This Project Stands Out
+## Why This Project Stands Out
 
 - Fully AI-generated workflow  
 - Unique random dataset  
